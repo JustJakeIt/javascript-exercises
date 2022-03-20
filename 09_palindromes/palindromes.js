@@ -10,7 +10,6 @@ const palindromes = function (string) {
 
 
 };
-
 // npm test palindromes.spec.js
 // Do not edit below this line
 module.exports = palindromes;
